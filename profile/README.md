@@ -33,6 +33,6 @@
 
 ## Контакты
 [![Email](https://img.shields.io/badge/Email-pwfoox@mail.ru-important)](mailto:pwfoox@mail.ru)
-[![Telegram](https://img.shields.io/badge/Telegram-PWFoox-blue)](https://t.me/@PWFoox)
+[![Telegram](https://img.shields.io/badge/Telegram-PWFoox-blue)](https://t.me/PWFoox)
 
 ---
